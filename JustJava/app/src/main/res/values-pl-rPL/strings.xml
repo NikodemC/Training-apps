@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">Imię</string>
+    <string name="toppings">Dodatki</string>
+    <string name="quantity">Ilość</string>
+    <string name="order_summary">Podsumowanie zamówienia</string>
+    <string name="calculate">Oblicz</string>
+    <string name="clear">Anuluj</string>
+    <string name="submit">Złóż zamówienie</string>
+    <string name="add_cream">Dodaj bitą śmietanę</string>
+    <string name="add_chocolate">Dodaj czekoladę</string>
+    <string name="and_chocolate">" i czekoladę"</string>
+    <string name="total">Suma</string>
+    <string name="thank_you">Dziękuję!</string>
+    <string name="cancel_message">Anulowano zamówienie</string>
+    <string name="submit_message">Nie można złożyć pustego zamówienia</string>
+    <string name="email_subject">"Zamówienie dla "</string>
+    <string name="whiped_cream">Bita śmietana - 2 zł/kubek</string>
+    <string name="chocolate">Czekolada - 3 zł/kubek</string>
+</resources>
